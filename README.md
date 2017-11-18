@@ -2,19 +2,19 @@
 <h1><p align="center">تبلیغ‌گر
 <h2><p align="center">سرعت 💠 دقت 💠 قدرت
 <div align="center">
-    <a href="https://telegram.me/Naji_MessengerRobot">
+    <a href="https://telegram.me/iranb0y">
         <img src="http://upir.ir/951/guest/Untitled-5.png" hspace="10" width="150">
     </a>
-    <a href="https://telegram.me/i_advertiser">
+    <a href="https://telegram.me/iranb0yr">
         <img src="http://upir.ir/951/guest/Untitled-7.png" hspace="10" width="150">
     </a>
-    <a href="https://telegram.me/i_naji">
+    <a href="https://telegram.me/iranb0y">
         <img src="http://upir.ir/951/guest/Untitled-6.png" width="150">
     </a>
 </div>
 
 <h3><p dir="rtl">تبلیغ‌گر رباتی هوشمند, بسیار ساده و البته رایگان جهت امور تبلیغاتی در تلگرام است.<br>
-نوشته شده توسط <a href="https://telegram.me/i_naji">ناجی</a> برپایه اخرین نسخه <a href="https://valtman.name/telegram-cli">تلگرام</a>.
+نوشته شده توسط <a href="https://telegram.me/iranb0y">irani</a> برپایه اخرین نسخه <a href="https://valtman.name/telegram-cli">تلگرام</a>.
 <br>
 <h3 align="right"> <strong> نصب و راه‌اندازی</strong> 🚀
 </h3>
@@ -22,8 +22,8 @@
 <h4 dir="rtl">ابتدا سورس <em>ربات تبلیغ‌گر</em> را کپی کرده و پیش‌زمینه‌ها را نصب کنید.</h4>
 <h6>(موارد زیر را در ترمینال وارد کنید)</h6>
 <pre>
-<span>git clone https://github.com/i-naji/tabchi.git -b persian</span>
-<span>cd tabchi</span>
+<span>git clone https://github.com/irboy/tabchiv1.git -b persian</span>
+<span>cd tabchiv1</span>
 <span>chmod +x bot</span>
 <span>./bot install</span>
 </pre>
@@ -268,7 +268,7 @@
   </tr>
   <tr>
     <td colspan="2">همگام سازی با تبچی</td>
-    <td align="center">به <a href="https://telegram.me/i_advertiser/7">آموزش</a> موجود در کانال سر بزنید..</td>
+    <td align="center">به <a href="https://telegram.me/iranb0y">آموزش</a> موجود در کانال سر بزنید..</td>
   </tr>
 </table>
 <h6 dir="rtl">اساس کار تبلیغ‌گر تشخیص لینک و عضویت در هر گروه‌ها و پیروی از دستورات تعیین شده است.</h6>
@@ -324,5 +324,5 @@
     </a> 
 </div>
 <h4 align="center" dir="rtl">به سبب دسترسی خصوصی و فروش انحصاری تبلیغ‌گر ، بروزرسانی‌ای برای این سورس ارائه نخواهد شد و استفاده رایگان از تبلیغ‌گر شامل پشتیبانی نمی‌شود.
-<br>سازنده و توسعه دهنده : ♚ Naji ♚ <a href="https://telegram.me/i_naji"> @i_naji </a><br>راهنمای استفاده از تبلیغ‌گر بسیار ساده و قابل درک است<br>فیلم آموزشی نصب و اطلاع از آخرین اخبار تبلیغ‌گر در کانال ما 
-<a href="https://telegram.me/i_advertiser"> @i_advertiser</a></h4>
+<br>سازنده و توسعه دهنده : ♚ Naji ♚ <a href="https://telegram.me/iranb0y"> @iranb0y </a><br>راهنمای استفاده از تبلیغ‌گر بسیار ساده و قابل درک است<br>فیلم آموزشی نصب و اطلاع از آخرین اخبار تبلیغ‌گر در کانال ما 
+<a href="https://telegram.me/iranb0y"> @iranb0y</a></h4>
