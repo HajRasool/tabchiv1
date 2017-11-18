@@ -22,7 +22,7 @@
 <h4 dir="rtl">ابتدا سورس <em>ربات تبلیغ‌گر</em> را کپی کرده و پیش‌زمینه‌ها را نصب کنید.</h4>
 <h6>(موارد زیر را در ترمینال وارد کنید)</h6>
 <pre>
-<span>git clone https://github.com/irboy/tabchiv1.git -b persian</span>
+<span>git clone https://github.com/irboy/tabchiv1.git </span>
 <span>cd tabchiv1</span>
 <span>chmod +x bot</span>
 <span>./bot install</span>
